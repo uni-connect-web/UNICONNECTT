@@ -1,2 +1,5 @@
 # UNICONNECTT
 ![image](https://github.com/uni-connect-web/UNICONNECTT/assets/108257452/7b3cacd4-aa5f-4e3f-b178-7a4f7f334f79)
+Uni-Connect is an innovative digital platform designed exclusively for Uganda Christian University students. Our mission is to empower and enhance the academic journey of students across various years of study. Through a user-friendly interface, Uni-Connect offers a comprehensive collection of course materials, resources, and personalized study roadmaps.
+This platform serves as a one-stop destination, providing students with easy access to essential academic materials, aiding in efficient study planning and execution. Uni-Connect is committed to fostering a collaborative and engaging learning environment, connecting students with the resources they need to excel in their academic pursuits.
+Key features include a sleek profile builder, enabling students to showcase their academic journey and achievements. The platform also facilitates seamless communication and collaboration among students, fostering a sense of community within the university.
